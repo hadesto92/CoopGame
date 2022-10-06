@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\coopgame\\intermediate\\build\\win64\\unrealeditor\\inc\\coopgame\\coopgame.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\coopgame\\intermediate\\build\\win64\\coopgameeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "g:\\coopgame\\intermediate\\build\\win64\\unrealeditor\\development\\coopgame\\definitions.coopgame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

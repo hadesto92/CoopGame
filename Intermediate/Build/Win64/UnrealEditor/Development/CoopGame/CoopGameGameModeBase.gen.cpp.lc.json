@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\coopgame\\intermediate\\build\\win64\\unrealeditor\\inc\\coopgame\\coopgamegamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\coopgame\\intermediate\\build\\win64\\coopgameeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "g:\\coopgame\\intermediate\\build\\win64\\unrealeditor\\development\\coopgame\\definitions.coopgame.h",
+            "g:\\coopgame\\source\\coopgame\\coopgamegamemodebase.h",
+            "e:\\epic game project\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "e:\\epic game project\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "e:\\epic game project\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "e:\\epic game project\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "g:\\coopgame\\intermediate\\build\\win64\\unrealeditor\\inc\\coopgame\\coopgamegamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

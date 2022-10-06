@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\coopgame\\source\\coopgame\\private\\spowerupactor.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\coopgame\\intermediate\\build\\win64\\coopgameeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "g:\\coopgame\\intermediate\\build\\win64\\unrealeditor\\development\\coopgame\\definitions.coopgame.h",
+            "g:\\coopgame\\source\\coopgame\\public\\spowerupactor.h",
+            "g:\\coopgame\\intermediate\\build\\win64\\unrealeditor\\inc\\coopgame\\spowerupactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

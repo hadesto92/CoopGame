@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\coopgame\\intermediate\\build\\win64\\unrealeditor\\inc\\coopgame\\sprojectile.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\coopgame\\intermediate\\build\\win64\\coopgameeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "g:\\coopgame\\intermediate\\build\\win64\\unrealeditor\\development\\coopgame\\definitions.coopgame.h",
+            "g:\\coopgame\\source\\coopgame\\public\\sprojectile.h",
+            "g:\\coopgame\\source\\coopgame\\public\\sweapon.h",
+            "g:\\coopgame\\intermediate\\build\\win64\\unrealeditor\\inc\\coopgame\\sweapon.generated.h",
+            "g:\\coopgame\\intermediate\\build\\win64\\unrealeditor\\inc\\coopgame\\sprojectile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

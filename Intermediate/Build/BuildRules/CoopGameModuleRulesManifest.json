@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"G:\\CoopGame\\Source\\CoopGame\\CoopGame.Build.cs",
+		"G:\\CoopGame\\Source\\CoopGame.Target.cs",
+		"G:\\CoopGame\\Source\\CoopGameEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
